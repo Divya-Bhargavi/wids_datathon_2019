@@ -1,4 +1,4 @@
-# WiDS Datathon 2019
+# WiDS Datathon 2019 Attempt
 
 Kaggle: https://www.kaggle.com/c/widsdatathon2019
 
